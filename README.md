@@ -9,7 +9,7 @@ The compiled version was developed with Autoit v3 as it produces very small stan
 
 ## DOWNLOAD
 1. [Download v.1.0.0.1 for Windows x86](https://liagason.com/pnft.exe "Prime Number Finder Timer x86")
-2. [Download v.1.0.0.1 for Windows x64](https://liagason.com/pnft.exe "Prime Number Finder Timer x64")
+2. [Download v.1.0.0.1 for Windows x64](https://liagason.com/pnft_x64.exe "Prime Number Finder Timer x64")
 
 ## TODO
 1. Compile in C++
