@@ -8,8 +8,8 @@ A trial division primality test algorithm implemented in Python and Autoit aimed
 The compiled version was developed with Autoit v3 as it produces very small standalone executables for Windows compared to Python compilers.
 
 ## DOWNLOAD
-1. [Download v.1.0.0.1 for Windows x86](https://liagason.com/pnft.exe "Prime Number Finder Timer x86")
-2. [Download v.1.0.0.1 for Windows x64](https://liagason.com/pnft_x64.exe "Prime Number Finder Timer x64")
+1. [Download v.1.0.0.1 for Windows x86](https://github.com/liagason/Prime-Number-Finder-Timer/blob/master/pnft.exe "Prime Number Finder Timer x86")
+2. [Download v.1.0.0.1 for Windows x64](https://github.com/liagason/Prime-Number-Finder-Timer/blob/master/pnft_x64.exe "Prime Number Finder Timer x64")
 
 ## TODO
 1. Compile in C++
