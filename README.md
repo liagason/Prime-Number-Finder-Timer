@@ -10,8 +10,8 @@ The compiled version was developed with C# as it produces very small standalone 
 3. Manually add a reference to using System.Management in order to compile.
 
 ## DOWNLOAD
-1. [Download v.1.0.0.1 for Windows x86](https://github.com/liagason/Prime-Number-Finder-Timer/blob/master/pnft.exe "Prime Number Finder Timer x86")
-2. [Download v.1.0.0.1 for Windows x64](https://github.com/liagason/Prime-Number-Finder-Timer/blob/master/pnft_x64.exe "Prime Number Finder Timer x64")
+1. [Download v.1.1.0.3 for Windows x86](https://github.com/liagason/Prime-Number-Finder-Timer/blob/master/pnft.exe "Prime Number Finder Timer x86")
+2. [Download v.1.1.0.3 for Windows x64](https://github.com/liagason/Prime-Number-Finder-Timer/blob/master/pnft_x64.exe "Prime Number Finder Timer x64")
 
 ## TODO
 1. Compile in C++
