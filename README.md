@@ -4,10 +4,9 @@ A trial division primality test algorithm implemented in C# aimed to check CPU s
 ## INFO
 1. A simple tool developed to be used by non-technical users aiming to check & compare CPU speed.
 
-2. Basic algorithm functionality is implemented in Python.
-The compiled version was developed with C# as it produces very small standalone executables for Windows compared to other compilers. Tested with .NET Framework v4.
+2. Basic algorithm functionality is implemented and compiled in C# as it is a commonly used language and produces very small standalone executables for Windows compared to other compilers. Tested with .NET Framework v4.
 
-3. Manually add a reference to using System.Management in order to compile.
+3. Manually add a reference to System.Management in order to compile.
 
 ## DOWNLOAD
 1. [Download v.1.1.0.3 for Windows x86](https://github.com/liagason/Prime-Number-Finder-Timer/blob/master/pnft.exe "Prime Number Finder Timer x86")
