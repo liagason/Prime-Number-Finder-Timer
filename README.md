@@ -1,5 +1,5 @@
 # Prime-Number-Finder-Timer
-A trial division primality test algorithm implemented in C# aimed to check CPU speed.
+A square root primality test algorithm implemented in C# aimed to check CPU speed.
 
 ## INFO
 1. A simple tool developed to be used by non-technical users aiming to check & compare CPU speed.
