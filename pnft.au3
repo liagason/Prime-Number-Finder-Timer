@@ -49,21 +49,6 @@ While StringRegExp(StringRight($x, 1), "[\r\n]")
 WEnd
 ConsoleWrite("==> Needed " & $z / 1000 & " SECONDS to JUST VERIFY all prime numbers up to " & $x & "." & @CRLF)
 
-Dim $Processors
-_ComputerGetProcessors($Processors)
-If @error Then
-	$error = @error
-	$extended = @extended
-	Switch $extended
-		Case 1
-			ConsoleWrite("==> " & $ERR_NO_INFO & @CRLF)
-		Case 2
-			ConsoleWrite("==> " & $ERR_NOT_OBJ & @CRLF)
-	EndSwitch
-EndIf
-For $i = 1 To $Processors[0][0] Step 1
-	ConsoleWrite("==> Tested on " & $Processors[$i][0] & @CRLF)
-Next
 ConsoleWrite("Press ENTER to quit...")
 While True
 	$quit = ConsoleRead()
