@@ -8,9 +8,5 @@ A square root primality test algorithm optimized for speed and implemented in C#
 ## COMPILE
 1. Manually add a reference to System.Management in order to compile.
 
-## DOWNLOAD
-1. [Download v.1.1.0.3 for Windows x86](https://github.com/liagason/Prime-Number-Finder-Timer/blob/master/pnft.exe "Prime Number Finder Timer x86")
-2. [Download v.1.1.0.3 for Windows x64](https://github.com/liagason/Prime-Number-Finder-Timer/blob/master/pnft_x64.exe "Prime Number Finder Timer x64")
-
 ## TODO
 1. Add more algorithms
