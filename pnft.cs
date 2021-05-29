@@ -7,7 +7,7 @@ namespace Prime_Number_Finder_Timer
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Prime Number Finder & Timer [Version: 1.0.0.2 x86, Compiled: Tuesday, 13 Nov 2018]");
+            Console.WriteLine("Prime Number Finder & Timer [Version: 1.1.0.3 x86, Compiled: Tuesday, 13 Nov 2018]");
             Console.WriteLine("Copyright (c) 2018, Sotiris Liagas. All rights reserved.\n");
             Console.WriteLine("Primality test algorithm is based on trial division and is NOT optimized for speed.");
             Console.WriteLine("Source code & documentation are available at https://github.com/liagason\n");
